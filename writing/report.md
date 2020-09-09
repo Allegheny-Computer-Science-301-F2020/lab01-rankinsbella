@@ -34,10 +34,12 @@
 
 ### Article 2
  -  Article name.
- - Your answer here
+ - The Murky Ethics of Data Gathering in a Post-Cambridge Analytica World
 
 -  Reference or article citation.
- - Your answer here
+ - Steimer, S. (2018, January 05). The Murky Ethics of Data Gathering in
+  a Post-Cambridge Analytica World. Retrieved September 08, 2020, from
+  https://www.ama.org/marketing-news/the-murky-ethics-of-data-gathering-in-a-post-cambridge-analytica-world/
 
 - Briefly describe the article's premise.
  - Your answer here
