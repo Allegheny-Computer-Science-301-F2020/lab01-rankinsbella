@@ -42,19 +42,29 @@
   https://www.ama.org/marketing-news/the-murky-ethics-of-data-gathering-in-a-post-cambridge-analytica-world/
 
 - Briefly describe the article's premise.
- - Your answer here
+ - The premise of this article is that the ethics of data collection have
+ stalled because of codependence of companies, advertisers and consumers.
+ This web makes setting guidelines for data collection difficult because the
+ ways data is collected is evolving faster than guidelines can be put in place.
 
 - What is the ethical concern, in your opinion?
- - Your answer here
+ - The ethical concern is that with these apps and quizzes are harvesting data
+often times without the knowledge of the consumers using the applications.
+Most consumers will not read the fine print or read through lengthy technical
+essays before downloading an application.
 
 - What data is being manipulated in the article?
- - Your answer here
+ - The data that is being manipulated in this article is Facebook users personal
+ information as well as the information of the friends of that user.  
 
 - Briefly describe the analysis, as you understand it.
- - Your answer here
+ - The analysis is of how effective and cost efficient it is to advertise on Facebook
+ as opposed to other social platforms and how companies have been well aware of the
+ shady ways data is collected and used that to their advantage.
 
 - Who stands to lose or to gain something from this form of analysis?
- - Your answer here
+ - Companies like Facebook stand to gain billions of dollars from the targeted
+ advertisements while Facebook's user base loses their privacy.
 
 
 
